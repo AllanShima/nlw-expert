@@ -1,2 +1,9 @@
 # nlw-expert
-HTML + CSS + JS
+
+## Technologies used in the process:
+
+- HTML;
+- CSS;
+- JAVASCRIPT;
+- GITHUB.
+
